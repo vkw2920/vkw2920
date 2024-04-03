@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm student of Sevastopol State University
+
+I want to make own wold better and I can use information technologies to do it!
+
+Now I work for my university but in future I will make some pet-projects to make own (or only my) wold better.
+
+My team is CatFellowship -- it is the best team what I know among my coursemates.
+
 <!--
 **vkw2920/vkw2920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
